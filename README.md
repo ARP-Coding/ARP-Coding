@@ -1,4 +1,7 @@
 ## Hello, I am Andres Peralta
+## I am an aspiring coder and software enthusiast.
+
+
 
 <!--
 **ARP-Coding/ARP-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
